@@ -1,0 +1,2 @@
+origin	git@github.com:iSourcer/Git_For_Confirm.git (fetch)
+origin	git@github.com:iSourcer/Git_For_Confirm.git (push)
